@@ -1,7 +1,3 @@
-"""
-This code is devoloped for project with Esp32 cam and Rpi pico integration
-Rpi pico act as a Gps tracker only 
-"""
 
 
 
