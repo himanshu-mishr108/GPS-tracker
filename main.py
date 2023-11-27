@@ -1,6 +1,3 @@
-
-
-
 from machine import UART, Pin
 import utime
 import math 
